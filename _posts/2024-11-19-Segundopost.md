@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Segundo Post!"
-date:   2024-11-15
+date:   2024-11-19
 ---
 SOBRE MI
 
